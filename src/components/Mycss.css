@@ -340,6 +340,7 @@ object-position: center;
   box-sizing: border-box;
 
   background: #525252;
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
 
 
 }
@@ -371,6 +372,7 @@ object-position: center;
 
   width: 500px;
   height: 500px;
+  
 
 }
 
@@ -440,6 +442,9 @@ font-size: 36px;
 line-height: 26px;
 text-align: center;
 letter-spacing: -0.12em;
+
+
+
 }
 .aboutHeader::after {
 	position: absolute;
