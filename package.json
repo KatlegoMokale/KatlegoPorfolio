@@ -8,6 +8,8 @@
     "@fontsource/inter": "^4.5.11",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.9.2",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^0.9.237",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
