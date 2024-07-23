@@ -18,7 +18,7 @@ function SkillsContent(){
         </div>
 
         <div className="circleBig">
-            <div className="outter">C++</div>
+            <div className="outter">React Native</div>
             <div class="circle per-88">
             <div class="inner">88%</div>
     
@@ -26,7 +26,7 @@ function SkillsContent(){
         </div>
 
         <div className="circleBig">
-            <div className="outter">Dart</div>
+            <div className="outter">React</div>
             <div class="circle per-84">
             <div class="inner">84%</div>
    

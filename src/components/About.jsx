@@ -59,7 +59,7 @@ function AboutMe(){
                                 Address
                             </span>
                             <span className="titleValue">
-                                : Roodia, Sasolburg, FreeState
+                                : Vanderbijlpark, Gauteng
                             </span>
                         </p>
                         <p className="itemList">
