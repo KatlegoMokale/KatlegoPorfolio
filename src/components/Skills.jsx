@@ -41,13 +41,13 @@ function SkillsContent(){
             </div>
         </div>
 
-         <div className="circleBig">
+         {/* <div className="circleBig">
             <div className="outter">Sql</div>
             <div class="circle per-65">
                 <div class="inner">65%</div>
   
             </div>
-        </div>
+        </div> */}
 
         <div className="circleBig">
             <div className="outter">Photoshop</div>
@@ -57,13 +57,13 @@ function SkillsContent(){
             </div>
         </div>
   
-        <div className="circleBig">
+        {/* <div className="circleBig">
             <div className="outter">Photography</div>
             <div class="circle per-95">
             <div class="inner">95%</div>
    
             </div>
-        </div>
+        </div> */}
 
         <div className="circleBig">
             <div className="outter">Ui/Ux Design</div>
